@@ -1,9 +1,5 @@
 # 0x05. C - Pointers, arrays and strings.
 
-## Resources
-
-- Read the resources from the previous project; [0x05. C - Pointers, arrays and strings](../0x05-pointers_arrays_strings#resources).
-
 ## Tasks
 
 0. [strcat](./0-strcat.c) : A C function program that concatenates two strings.
